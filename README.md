@@ -1,2 +1,18 @@
-# Basic-Python-Calculator
-This is my first Python project — a basic command-line calculator. It performs simple arithmetic operations like addition, subtraction, multiplication, and division. I built it to learn Python basics such as variables, user input, conditionals, and error handling. It also handles cases like division by zero and invalid operators. 
+# Basic Python Calculator (My First Python Project)
+
+This is a beginner-friendly command-line calculator written in Python. It was the first project I created to start learning Python programming. It covers user input, conditional logic, and basic arithmetic.
+
+## 🔢 Features
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+- Handles division by zero
+- Detects invalid operators
+
+## ▶️ How to Run
+
+Make sure Python is installed. Then run:
+
+```bash
+python Basic Python Calculator.py
